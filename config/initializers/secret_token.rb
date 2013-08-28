@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Virmuto::Application.config.secret_token = '9cd885428a6d891e928fa064f46340fb7b72becd68556adbc2bba4b476a6f8f18396f1a8f49524b9684314f7f663c226b81457b10dfcf262b3131d8a68a63970'
+Treebook::Application.config.secret_token = '33556d6265e114f2a48ffc4d185dd9e27b33c4a43fb007bf48f0fbb1c7c2bc41b457aa0e95bd82449e5f85b5f6798690acc9c10e5eb512409cbb670d82d47fc5'
